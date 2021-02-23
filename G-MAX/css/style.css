@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    border-spacing: 0;
+}
+
+td {
+    padding: 0;
+}
+
+img {
+    border: 0;
+}
+
+.wrapper {
+    width: 100%;
+    table-layout: fixed;
+    background-color: #cccccc;
+    padding-bottom: 40px;
+}
+
+.main {
+    background-color: #fff;
+    margin: 0 auto;
+    width: 100%;
+    /* Usual Width for Clients */
+    max-width: 600px;
+    border-spacing: 0;
+    font-family: sans-serif;
+    color: #4a4a4a;
+}
+
+.button {
+    background-color: #4980d2;
+    color: #fff;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    opacity: 1;
+}
+
+.button:hover {
+    opacity: .8;
+}
+
+.two-columns {
+    text-align: center;
+    font-size: 0;
+    padding: 40px 0;
+}
+
+.two-columns .column {
+    width: 100%;
+    max-width: 300px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.two-columns .padding {
+    padding: 20px;
+}
+
+.two-columns .content {
+    text-align: left;
+    font-size: 15px;
+    line-height: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: #4980d2;
+}
+
+@media screen and (max-width: 600px) {
+    .two-columns img {
+        width: 300px!important;
+        max-width: 300px!important;
+    }
+    .padding {
+        padding-right: 0!important;
+        padding-left: 0!important;
+    }
+}
