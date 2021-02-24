@@ -47,7 +47,7 @@
 
 #active:checked~.menu-btn {
     background: #fff;
-    color: #B32317;
+    color: #898D8D;
 }
 
 #active:checked~.menu-btn i:before {
@@ -104,7 +104,7 @@
 }
 
 .wrapper ul li a:hover {
-    color: #B32317;
+    color: #898D8D;
 }
 
 input[type="checkbox"] {
