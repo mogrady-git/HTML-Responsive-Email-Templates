@@ -9,4 +9,4 @@ Mobile-Responsive Email Templates designed for email marketing which automatical
 > litmus PutsMail is a tool used to test your HTML emails before sending them!
 
 <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/mogrady-git/HTML-Responsive-Email-Templates">
-<a href="https://mogrady-git.github.io/HTML-Responsive-Email-Templates/index.html"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
+<a href="https://mogrady-professional.github.io/HTML-Responsive-Email-Templates/index.html"><img alt="GitHub last commit" src="https://img.shields.io/badge/Version%201.0-Launch%20Website-green"></a>
